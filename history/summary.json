@@ -1,9 +1,9 @@
 [
   {
-    "name": "Nostr Public Relay wss://nostr.orangepill.dev",
+    "name": "Nostr relay websocket connectivity check - wss://nostr.orangepill.dev",
     "url": "wss://nostr.orangepill.dev",
     "icon": "https://icons.duckduckgo.com/ip3/nostr.orangepill.dev.ico",
-    "slug": "nostr-public-relay-wss-nostr-orangepill-dev",
+    "slug": "nostr-relay-websocket-connectivity-check-wss-nostr-orangepill-dev",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -18,21 +18,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Nost Public Relay Ping response",
+    "name": "Nost Public Relay Response time - wss://nostr.orangepill.dev",
     "url": "https://nostr.orangepill.dev",
     "icon": "https://icons.duckduckgo.com/ip3/nostr.orangepill.dev.ico",
-    "slug": "nost-public-relay-ping-response",
+    "slug": "nost-public-relay-response-time-wss-nostr-orangepill-dev",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 40,
-    "timeDay": 40,
-    "timeWeek": 40,
-    "timeMonth": 40,
-    "timeYear": 40,
+    "time": 153,
+    "timeDay": 153,
+    "timeWeek": 153,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {}
   }
 ]

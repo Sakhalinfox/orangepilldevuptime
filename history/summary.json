@@ -16,5 +16,23 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Nost Public Relay Ping response",
+    "url": "https://nostr.orangepill.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/nostr.orangepill.dev.ico",
+    "slug": "nost-public-relay-ping-response",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 40,
+    "timeDay": 40,
+    "timeWeek": 40,
+    "timeMonth": 40,
+    "timeYear": 40,
+    "dailyMinutesDown": {}
   }
 ]

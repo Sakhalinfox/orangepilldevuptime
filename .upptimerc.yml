@@ -3,10 +3,10 @@ owner: sakhalinfox # Your GitHub organization or username, where this repository
 repo: orangepilldevuptime # The name of this repository
 
 sites:
-  - name: Nostr Public Relay wss://nostr.orangepill.dev
+  - name: Nostr relay websocket connectivity check - wss://nostr.orangepill.dev
     check: "ws"
     url: wss://nostr.orangepill.dev
-  - name: Nost Public Relay Ping response
+  - name: Nost Public Relay Response time - wss://nostr.orangepill.dev
     url: https://nostr.orangepill.dev
 
 status-website:

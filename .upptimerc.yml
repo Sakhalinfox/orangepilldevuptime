@@ -8,6 +8,15 @@ sites:
     url: wss://nostr.orangepill.dev
   - name: Nost Public Relay Response time - wss://nostr.orangepill.dev
     url: https://nostr.orangepill.dev
+  - name: Nostr Relay - wss://nostrical.com
+    url: https://nostrical.com
+  - name: Nostr Relay - wss://no.str.cr
+    url: https://no.str.cr
+  - name: Nostr Relay - wss://paid.no.str.cr
+    url: https://paid.no.str.cr
+  - name: Nostr Relay - wss://nostr.fly.dev
+    url: https://nostr.fly.dev
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

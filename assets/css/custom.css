@@ -1,0 +1,18 @@
+nav {
+  border-bottom-color: #51555d !important;
+  background: #252a34 !important;
+}
+
+body {
+  background: #252a34 !important;
+}
+
+article {
+  background: #000000 !important;
+  border-color: #51555d !important;
+}
+
+article.up {
+  border-left-color: #c26c07 !important;
+}
+

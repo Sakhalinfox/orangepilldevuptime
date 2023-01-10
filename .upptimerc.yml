@@ -18,6 +18,8 @@ sites:
     url: https://nostr.fly.dev
   - name: Nostr Relay - wss://public.nostr.swissrouting.com
     url: https://public.nostr.swissrouting.com
+  - name: Nostr Relay - wss://nostr.swiss-enigma.ch
+    url: https://nostr.swiss-enigma.ch
     
 
 status-website:

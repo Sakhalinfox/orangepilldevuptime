@@ -24,6 +24,8 @@ sites:
     url: https://nostr.chaker.net
   - name: Nostr Relay - wss://nostr.thesimplekid.com
     url: https://nostr.thesimplekid.com
+  - name: Nostr Relay - wss://knostr.neutrine.com:8880/
+    url: https://knostr.neutrine.com:8880/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

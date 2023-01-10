@@ -20,7 +20,10 @@ sites:
     url: https://public.nostr.swissrouting.com
   - name: Nostr Relay - wss://nostr.swiss-enigma.ch
     url: https://nostr.swiss-enigma.ch
-    
+  - name: Nostr Relay - wss://nostr.chaker.net
+    url: https://nostr.chaker.net
+  - name: Nostr Relay - wss://nostr.thesimplekid.com
+    url: https://nostr.thesimplekid.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

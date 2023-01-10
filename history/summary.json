@@ -94,19 +94,19 @@
     "url": "https://nostr.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/nostr.fly.dev.ico",
     "slug": "nostr-relay-wss-nostr-fly-dev",
-    "status": "up",
-    "uptime": "80.60%",
-    "uptimeDay": "80.60%",
-    "uptimeWeek": "80.60%",
-    "uptimeMonth": "80.60%",
-    "uptimeYear": "80.60%",
+    "status": "down",
+    "uptime": "74.11%",
+    "uptimeDay": "74.11%",
+    "uptimeWeek": "74.11%",
+    "uptimeMonth": "74.11%",
+    "uptimeYear": "74.11%",
     "time": 1083,
     "timeDay": 1083,
     "timeWeek": 1083,
     "timeMonth": 1083,
     "timeYear": 1083,
     "dailyMinutesDown": {
-      "2023-01-10": 32
+      "2023-01-10": 55
     }
   },
   {

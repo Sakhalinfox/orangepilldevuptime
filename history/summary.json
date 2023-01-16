@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nostr.fly.dev.ico",
     "slug": "nostr-relay-wss-nostr-fly-dev",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "98.66%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
     "time": 7411,
     "timeDay": 73,
     "timeWeek": 7411,
@@ -133,9 +133,9 @@
     "url": "https://nostr.swiss-enigma.ch",
     "icon": "https://icons.duckduckgo.com/ip3/nostr.swiss-enigma.ch.ico",
     "slug": "nostr-relay-wss-nostr-swiss-enigma-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,7 +144,9 @@
     "timeWeek": 1404,
     "timeMonth": 1404,
     "timeYear": 1404,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-16": 0
+    }
   },
   {
     "name": "Nostr Relay - wss://nostr.chaker.net",

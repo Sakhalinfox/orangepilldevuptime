@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nostr.fly.dev.ico",
     "slug": "nostr-relay-wss-nostr-fly-dev",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "98.99%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
     "time": 6686,
     "timeDay": 117,
     "timeWeek": 8704,
@@ -189,9 +189,9 @@
     "url": "https://knostr.neutrine.com:8880/",
     "icon": "https://icons.duckduckgo.com/ip3/knostr.neutrine.com.ico",
     "slug": "nostr-relay-wss-knostr-neutrine-com-8880",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -200,6 +200,8 @@
     "timeWeek": 395,
     "timeMonth": 411,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-18": 0
+    }
   }
 ]

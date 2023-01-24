@@ -1,7 +1,7 @@
 url: https://nostr-relay.wlvs.space
-status: down
-code: 503
-responseTime: 5234
-lastUpdated: 2023-01-24T16:09:39.842Z
+status: up
+code: 200
+responseTime: 5172
+lastUpdated: 2023-01-24T16:37:52.385Z
 startTime: Tue Jan 24 2023 01:14:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

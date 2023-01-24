@@ -24,9 +24,35 @@ sites:
     url: https://nostr.chaker.net
   - name: Nostr Relay - wss://nostr.thesimplekid.com
     url: https://nostr.thesimplekid.com
-  - name: Nostr Relay - wss://knostr.neutrine.com:8880/
-    url: https://knostr.neutrine.com:8880/
-
+  - name: Nostr Relay - wss://knostr.neutrine.com
+    url: https://knostr.neutrine.com
+  - name: Nostr Relay - wss://relay.damus.io
+    url: https://relay.damus.io
+  - name: Nostr Relay - wss://nostr-relay.wlvs.space
+    url: https://nostr-relay.wlvs.space
+  - name: Nostr Relay - wss://nostr-pub.wellorder.net
+    url: https://nostr-pub.wellorder.net
+  - name: Nostr Relay - wss://nostr.bitcoiner.social
+    url: https://nostr.bitcoiner.social
+  - name: Nostr Relay - wss://nostr.onsats.org
+    url: https://nostr.onsats.org
+  - name: Nostr Relay - wss://nostr.zebedee.cloud
+    url: https://nostr.zebedee.cloud
+  - name: Nostr Relay - wss://relay.nostr.info
+    url: https://relay.nostr.info
+  - name: Nostr Relay - wss://nostr-pub.semisol.dev
+    url: https://nostr-pub.semisol.dev
+  - name: Nostr Relay - wss://nostr.oxtr.dev
+    url: https://nostr.oxtr.dev
+  - name: Nostr Relay - wss://nostr.fmt.wiz.biz
+    url: https://nostr.fmt.wiz.biz
+  - name: Nostr Relay - wss://nostr.walletofsatoshi.com
+    url: https://nostr.walletofsatoshi.com
+  - name: Nostr Relay - wss://brb.io
+    url: https://brb.io
+  - name: Nostr Relay - wss://nostr-relay.untethr.me
+    url: https://nostr-relay.untethr.me
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

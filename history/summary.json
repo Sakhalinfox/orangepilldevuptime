@@ -157,11 +157,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nostr.chaker.net.ico",
     "slug": "nostr-relay-wss-nostr-chaker-net",
     "status": "up",
-    "uptime": "93.72%",
+    "uptime": "93.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.70%",
-    "uptimeMonth": "93.72%",
-    "uptimeYear": "93.72%",
+    "uptimeMonth": "93.73%",
+    "uptimeYear": "93.73%",
     "time": 294,
     "timeDay": 321,
     "timeWeek": 287,
@@ -234,11 +234,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nostr-relay.wlvs.space.ico",
     "slug": "nostr-relay-wss-nostr-relay-wlvs-space",
     "status": "up",
-    "uptime": "85.45%",
-    "uptimeDay": "85.45%",
-    "uptimeWeek": "85.45%",
-    "uptimeMonth": "85.45%",
-    "uptimeYear": "85.45%",
+    "uptime": "85.84%",
+    "uptimeDay": "85.84%",
+    "uptimeWeek": "85.84%",
+    "uptimeMonth": "85.84%",
+    "uptimeYear": "85.84%",
     "time": 3544,
     "timeDay": 3544,
     "timeWeek": 3544,
@@ -271,17 +271,17 @@
     "url": "https://nostr.bitcoiner.social",
     "icon": "https://icons.duckduckgo.com/ip3/nostr.bitcoiner.social.ico",
     "slug": "nostr-relay-wss-nostr-bitcoiner-social",
-    "status": "up",
-    "uptime": "85.97%",
-    "uptimeDay": "85.97%",
-    "uptimeWeek": "85.97%",
-    "uptimeMonth": "85.97%",
-    "uptimeYear": "85.97%",
-    "time": 398,
-    "timeDay": 398,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
+    "status": "down",
+    "uptime": "86.32%",
+    "uptimeDay": "86.32%",
+    "uptimeWeek": "86.32%",
+    "uptimeMonth": "86.32%",
+    "uptimeYear": "86.32%",
+    "time": 383,
+    "timeDay": 383,
+    "timeWeek": 383,
+    "timeMonth": 383,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2023-01-24": 164
     }
@@ -303,7 +303,7 @@
     "timeMonth": 604,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2023-01-24": 1173
+      "2023-01-24": 1205
     }
   },
   {
@@ -413,7 +413,7 @@
     "timeMonth": 193,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2023-01-24": 1173
+      "2023-01-24": 1205
     }
   },
   {
@@ -440,11 +440,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nostr-relay.untethr.me.ico",
     "slug": "nostr-relay-wss-nostr-relay-untethr-me",
     "status": "up",
-    "uptime": "97.92%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "97.92%",
-    "uptimeYear": "97.92%",
+    "uptime": "97.98%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "97.98%",
     "time": 175,
     "timeDay": 175,
     "timeWeek": 175,

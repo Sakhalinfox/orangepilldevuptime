@@ -52,7 +52,9 @@ sites:
     url: https://brb.io
   - name: Nostr Relay - wss://nostr-relay.untethr.me
     url: https://nostr-relay.untethr.me
-    
+  - name: Nostr Relay - wss://relay.nostr.scot
+    url: https://relay.nostr.scot
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

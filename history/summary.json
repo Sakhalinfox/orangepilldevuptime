@@ -234,11 +234,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nostr-relay.wlvs.space.ico",
     "slug": "nostr-relay-wss-nostr-relay-wlvs-space",
     "status": "up",
-    "uptime": "94.74%",
-    "uptimeDay": "94.74%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "94.74%",
-    "uptimeYear": "94.74%",
+    "uptime": "94.99%",
+    "uptimeDay": "94.99%",
+    "uptimeWeek": "94.99%",
+    "uptimeMonth": "94.99%",
+    "uptimeYear": "94.99%",
     "time": 232,
     "timeDay": 232,
     "timeWeek": 232,
@@ -271,19 +271,19 @@
     "url": "https://nostr.bitcoiner.social",
     "icon": "https://icons.duckduckgo.com/ip3/nostr.bitcoiner.social.ico",
     "slug": "nostr-relay-wss-nostr-bitcoiner-social",
-    "status": "down",
-    "uptime": "89.66%",
-    "uptimeDay": "89.66%",
-    "uptimeWeek": "89.66%",
-    "uptimeMonth": "89.66%",
-    "uptimeYear": "89.66%",
-    "time": 345,
-    "timeDay": 345,
-    "timeWeek": 345,
-    "timeMonth": 345,
-    "timeYear": 345,
+    "status": "up",
+    "uptime": "85.52%",
+    "uptimeDay": "85.52%",
+    "uptimeWeek": "85.52%",
+    "uptimeMonth": "85.52%",
+    "uptimeYear": "85.52%",
+    "time": 360,
+    "timeDay": 360,
+    "timeWeek": 360,
+    "timeMonth": 360,
+    "timeYear": 360,
     "dailyMinutesDown": {
-      "2023-01-24": 48
+      "2023-01-24": 71
     }
   },
   {
@@ -303,7 +303,7 @@
     "timeMonth": 604,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2023-01-24": 463
+      "2023-01-24": 485
     }
   },
   {
@@ -413,7 +413,7 @@
     "timeMonth": 193,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2023-01-24": 463
+      "2023-01-24": 485
     }
   },
   {
@@ -440,11 +440,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nostr-relay.untethr.me.ico",
     "slug": "nostr-relay-wss-nostr-relay-untethr-me",
     "status": "up",
-    "uptime": "94.73%",
-    "uptimeDay": "94.73%",
-    "uptimeWeek": "94.73%",
-    "uptimeMonth": "94.73%",
-    "uptimeYear": "94.73%",
+    "uptime": "94.98%",
+    "uptimeDay": "94.98%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "94.98%",
+    "uptimeYear": "94.98%",
     "time": 175,
     "timeDay": 175,
     "timeWeek": 175,

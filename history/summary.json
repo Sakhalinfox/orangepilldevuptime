@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 133,
     "timeDay": 151,
-    "timeWeek": 139,
+    "timeWeek": 150,
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 437,
     "timeDay": 433,
-    "timeWeek": 433,
+    "timeWeek": 440,
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 456,
     "timeDay": 447,
-    "timeWeek": 506,
+    "timeWeek": 524,
     "timeMonth": 456,
     "timeYear": 456,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 417,
     "timeDay": 438,
-    "timeWeek": 446,
+    "timeWeek": 458,
     "timeMonth": 417,
     "timeYear": 417,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "98.71%",
     "time": 4511,
     "timeDay": 202,
-    "timeWeek": 157,
+    "timeWeek": 161,
     "timeMonth": 4511,
     "timeYear": 4511,
     "dailyMinutesDown": {
@@ -125,7 +125,7 @@
     "uptimeYear": "100.00%",
     "time": 346,
     "timeDay": 371,
-    "timeWeek": 362,
+    "timeWeek": 369,
     "timeMonth": 346,
     "timeYear": 346,
     "dailyMinutesDown": {}
@@ -143,7 +143,7 @@
     "uptimeYear": "99.80%",
     "time": 911,
     "timeDay": 612,
-    "timeWeek": 598,
+    "timeWeek": 607,
     "timeMonth": 911,
     "timeYear": 911,
     "dailyMinutesDown": {
@@ -157,14 +157,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/nostr.chaker.net.ico",
     "slug": "nostr-relay-wss-nostr-chaker-net",
     "status": "up",
-    "uptime": "93.76%",
+    "uptime": "93.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.70%",
-    "uptimeMonth": "93.76%",
-    "uptimeYear": "93.76%",
+    "uptimeMonth": "93.77%",
+    "uptimeYear": "93.77%",
     "time": 292,
     "timeDay": 288,
-    "timeWeek": 284,
+    "timeWeek": 281,
     "timeMonth": 292,
     "timeYear": 292,
     "dailyMinutesDown": {
@@ -185,7 +185,7 @@
     "uptimeYear": "99.77%",
     "time": 263,
     "timeDay": 284,
-    "timeWeek": 277,
+    "timeWeek": 286,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {
@@ -234,18 +234,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nostr-relay.wlvs.space.ico",
     "slug": "nostr-relay-wss-nostr-relay-wlvs-space",
     "status": "up",
-    "uptime": "84.57%",
-    "uptimeDay": "84.57%",
-    "uptimeWeek": "84.57%",
-    "uptimeMonth": "84.57%",
-    "uptimeYear": "84.57%",
+    "uptime": "85.59%",
+    "uptimeDay": "85.59%",
+    "uptimeWeek": "85.59%",
+    "uptimeMonth": "85.59%",
+    "uptimeYear": "85.59%",
     "time": 3787,
     "timeDay": 3787,
     "timeWeek": 3787,
     "timeMonth": 3787,
     "timeYear": 3787,
     "dailyMinutesDown": {
-      "2023-01-24": 203
+      "2023-01-24": 193
     }
   },
   {
@@ -271,19 +271,19 @@
     "url": "https://nostr.bitcoiner.social",
     "icon": "https://icons.duckduckgo.com/ip3/nostr.bitcoiner.social.ico",
     "slug": "nostr-relay-wss-nostr-bitcoiner-social",
-    "status": "up",
-    "uptime": "87.49%",
-    "uptimeDay": "87.49%",
-    "uptimeWeek": "87.49%",
-    "uptimeMonth": "87.49%",
-    "uptimeYear": "87.49%",
-    "time": 368,
-    "timeDay": 368,
-    "timeWeek": 368,
-    "timeMonth": 368,
-    "timeYear": 368,
+    "status": "down",
+    "uptime": "87.69%",
+    "uptimeDay": "87.69%",
+    "uptimeWeek": "87.69%",
+    "uptimeMonth": "87.69%",
+    "uptimeYear": "87.69%",
+    "time": 364,
+    "timeDay": 364,
+    "timeWeek": 364,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {
-      "2023-01-24": 164
+      "2023-01-24": 165
     }
   },
   {
@@ -303,7 +303,7 @@
     "timeMonth": 577,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2023-01-24": 1315
+      "2023-01-24": 1341
     }
   },
   {
@@ -413,7 +413,7 @@
     "timeMonth": 159,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2023-01-24": 1315
+      "2023-01-24": 1341
     }
   },
   {
@@ -440,11 +440,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nostr-relay.untethr.me.ico",
     "slug": "nostr-relay-wss-nostr-relay-untethr-me",
     "status": "up",
-    "uptime": "96.44%",
-    "uptimeDay": "96.44%",
-    "uptimeWeek": "96.44%",
-    "uptimeMonth": "96.44%",
-    "uptimeYear": "96.44%",
+    "uptime": "96.51%",
+    "uptimeDay": "96.51%",
+    "uptimeWeek": "96.51%",
+    "uptimeMonth": "96.51%",
+    "uptimeYear": "96.51%",
     "time": 171,
     "timeDay": 171,
     "timeWeek": 171,

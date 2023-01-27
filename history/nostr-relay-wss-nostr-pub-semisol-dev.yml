@@ -1,7 +1,7 @@
 url: https://nostr-pub.semisol.dev
-status: down
-code: 502
-responseTime: 549
-lastUpdated: 2023-01-27T02:51:19.961Z
+status: up
+code: 200
+responseTime: 633
+lastUpdated: 2023-01-27T03:12:24.115Z
 startTime: Tue Jan 24 2023 01:14:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

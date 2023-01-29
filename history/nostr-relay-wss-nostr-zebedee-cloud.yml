@@ -1,7 +1,7 @@
 url: https://nostr.zebedee.cloud
-status: down
-code: 502
-responseTime: 97
-lastUpdated: 2023-01-29T23:46:40.814Z
+status: up
+code: 200
+responseTime: 268
+lastUpdated: 2023-01-29T23:59:20.988Z
 startTime: Tue Jan 24 2023 01:14:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

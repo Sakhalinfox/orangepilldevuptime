@@ -1,7 +1,7 @@
 url: https://nostr.bitcoiner.social
-status: up
-code: 200
-responseTime: 359
-lastUpdated: 2023-02-01T13:55:33.077Z
+status: down
+code: 502
+responseTime: 1153
+lastUpdated: 2023-02-01T14:56:09.887Z
 startTime: Tue Jan 24 2023 01:14:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://nostr.orangepill.dev
-status: down
-code: 500
-responseTime: 220
-lastUpdated: 2023-02-03T09:48:04.744Z
+status: up
+code: 200
+responseTime: 165
+lastUpdated: 2023-02-03T10:04:49.047Z
 startTime: Sat Jan 07 2023 07:59:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

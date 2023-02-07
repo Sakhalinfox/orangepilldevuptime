@@ -1,7 +1,7 @@
 url: https://relay.nostr.bingo
-status: up
-code: 200
-responseTime: 6344
-lastUpdated: 2023-02-07T04:25:37.627Z
+status: down
+code: 502
+responseTime: 376
+lastUpdated: 2023-02-07T05:14:04.465Z
 startTime: Sun Feb 05 2023 01:39:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

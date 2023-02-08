@@ -326,10 +326,10 @@
     }
   },
   {
-    "name": "Nostr Relay - wss://nostr.bitcoiner.social",
-    "url": "https://nostr.bitcoiner.social",
-    "icon": "https://icons.duckduckgo.com/ip3/nostr.bitcoiner.social.ico",
-    "slug": "nostr-relay-wss-nostr-bitcoiner-social",
+    "name": "Nostr Relay - wss://offchain.pub",
+    "url": "https://offchain.pub",
+    "icon": "https://icons.duckduckgo.com/ip3/offchain.pub.ico",
+    "slug": "nostr-relay-wss-offchain-pub",
     "status": "up",
     "uptime": "88.49%",
     "uptimeDay": "100.00%",

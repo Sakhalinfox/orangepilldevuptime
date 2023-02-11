@@ -59,6 +59,8 @@ sites:
     url: https://relay.nostr.scot
   - name: Nostr Relay - wss://relay.nostr.bingo
     url: https://relay.nostr.bingo
+  - name: Nostr Relay - wss://lightningrelay.com
+    url: https://lightningrelay.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

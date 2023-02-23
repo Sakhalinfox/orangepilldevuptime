@@ -1,7 +1,7 @@
 url: https://public.nostr.swissrouting.com
-status: down
-code: 500
-responseTime: 299
-lastUpdated: 2023-02-23T08:20:53.554Z
+status: up
+code: 200
+responseTime: 411
+lastUpdated: 2023-02-23T08:39:25.006Z
 startTime: Tue Jan 10 2023 00:08:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://relay.nostr.scot
-status: down
-code: 500
-responseTime: 301
-lastUpdated: 2023-02-23T22:16:06.739Z
+status: up
+code: 200
+responseTime: 317
+lastUpdated: 2023-02-23T22:34:03.332Z
 startTime: Tue Jan 24 2023 01:49:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

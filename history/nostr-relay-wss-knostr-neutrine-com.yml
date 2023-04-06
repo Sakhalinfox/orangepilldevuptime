@@ -1,7 +1,7 @@
 url: https://knostr.neutrine.com
-status: up
-code: 200
-responseTime: 152
-lastUpdated: 2023-04-06T08:59:59.607Z
+status: down
+code: 502
+responseTime: 263
+lastUpdated: 2023-04-06T09:20:25.519Z
 startTime: Tue Jan 24 2023 01:14:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

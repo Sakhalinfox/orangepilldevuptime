@@ -1,7 +1,7 @@
 url: https://relay.nostr.info
-status: up
-code: 200
-responseTime: 459
-lastUpdated: 2023-04-17T23:10:03.267Z
+status: down
+code: 502
+responseTime: 402
+lastUpdated: 2023-04-18T04:03:15.736Z
 startTime: Tue Jan 24 2023 01:14:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

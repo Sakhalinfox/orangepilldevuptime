@@ -1,7 +1,7 @@
 url: https://brb.io
-status: up
-code: 200
-responseTime: 8365
-lastUpdated: 2023-04-27T08:38:20.678Z
+status: down
+code: 502
+responseTime: 17787
+lastUpdated: 2023-04-27T08:51:23.197Z
 startTime: Tue Jan 24 2023 01:14:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

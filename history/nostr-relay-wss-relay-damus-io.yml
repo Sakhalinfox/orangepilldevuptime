@@ -1,7 +1,7 @@
 url: https://relay.damus.io
-status: down
-code: 503
-responseTime: 138
-lastUpdated: 2023-07-12T18:28:09.278Z
+status: up
+code: 200
+responseTime: 291
+lastUpdated: 2023-07-12T18:59:39.066Z
 startTime: Tue Jan 24 2023 01:14:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://nostr.oxtr.dev
-status: down
-code: 500
-responseTime: 979
-lastUpdated: 2023-08-11T10:38:17.245Z
+status: up
+code: 200
+responseTime: 831
+lastUpdated: 2023-08-11T11:21:07.934Z
 startTime: Tue Jan 24 2023 01:14:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

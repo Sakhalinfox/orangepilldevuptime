@@ -1,7 +1,7 @@
 url: https://no.str.cr
-status: up
-code: 200
-responseTime: 494
-lastUpdated: 2023-08-14T03:10:44.259Z
+status: down
+code: 500
+responseTime: 454
+lastUpdated: 2023-08-14T03:23:58.863Z
 startTime: Mon Jan 09 2023 23:55:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

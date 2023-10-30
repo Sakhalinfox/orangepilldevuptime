@@ -1,7 +1,7 @@
 url: https://nostr.fmt.wiz.biz
-status: down
-code: 502
-responseTime: 22
-lastUpdated: 2023-10-30T07:18:43.245Z
+status: up
+code: 200
+responseTime: 29
+lastUpdated: 2023-10-30T07:57:28.638Z
 startTime: 2023-01-24T01:14:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>

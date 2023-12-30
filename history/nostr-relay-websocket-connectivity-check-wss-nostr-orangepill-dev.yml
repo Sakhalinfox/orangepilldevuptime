@@ -1,7 +1,7 @@
 url: wss://nostr.orangepill.dev
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2023-12-30T02:01:53.347Z
+lastUpdated: 2023-12-30T02:28:07.918Z
 startTime: 2023-01-07T07:59:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>

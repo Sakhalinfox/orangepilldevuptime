@@ -1,7 +1,7 @@
 url: https://nostr.swiss-enigma.ch
-status: up
-code: 200
-responseTime: 481
-lastUpdated: 2024-01-02T18:52:16.848Z
+status: down
+code: 500
+responseTime: 598
+lastUpdated: 2024-01-02T20:34:11.494Z
 startTime: 2023-01-10T00:25:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>

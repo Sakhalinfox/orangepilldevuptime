@@ -1,7 +1,7 @@
 url: https://nostr-pub.wellorder.net
-status: down
-code: 503
-responseTime: 10378
-lastUpdated: 2024-01-13T05:57:16.911Z
+status: up
+code: 200
+responseTime: 585
+lastUpdated: 2024-01-13T06:24:08.104Z
 startTime: 2023-01-24T01:14:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
